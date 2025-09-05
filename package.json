@@ -3,7 +3,7 @@
   "name": "woo-bulk-edit-custom-price",
   "version": "0.1.0",
   "main": "Gruntfile.js",
-  "author": "YOUR NAME HERE",
+  "author": "Tarek Nabil",
   "scripts" : {
     "start" : "grunt default" ,
     "readme" : "grunt readme",
